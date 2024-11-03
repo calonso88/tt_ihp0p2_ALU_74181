@@ -1,9 +1,9 @@
 # Tiny Tapeout project information
 project:
-  title:        "ALU 74181"      # Project title
+  title:        "8-bit ALU based on 2x 74181"      # Project title
   author:       "Caio Alonso da Costa"      # Your name
   discord:      "caioalonso5175"      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
-  description:  "SPI peripheral and an 8-bit ALU implemented with 2x 4-bit slice arithmetic logic unit 74181"      # One line description of what your project does
+  description:  "8-bit ALU implemented with 2x 4-bit slice arithmetic logic unit 74181 with SPI interface"      # One line description of what your project does
   language:     "SystemVerilog" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     50000000       # Clock frequency in Hz (or 0 if not applicable)
 
